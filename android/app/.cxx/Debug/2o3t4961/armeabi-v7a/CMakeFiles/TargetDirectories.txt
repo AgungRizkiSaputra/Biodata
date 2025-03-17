@@ -1,0 +1,2 @@
+C:/SEMESTER PERKULIAHAN/SEMESTER 6/MOBILE 2/biodata/android/app/.cxx/Debug/2o3t4961/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/SEMESTER PERKULIAHAN/SEMESTER 6/MOBILE 2/biodata/android/app/.cxx/Debug/2o3t4961/armeabi-v7a/CMakeFiles/rebuild_cache.dir
